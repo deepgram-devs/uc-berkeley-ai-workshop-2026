@@ -1,0 +1,11 @@
+# Environment
+.env
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+*.log
+
+talk-track.md
